@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kishorbhai Gohil</h1>
-<h3 align="center">Full Stack Developer from India</h3>
+<h3 align="center">Project Management Apprentice @ Google // Turning Ideas into Reality</h3>
 
-- 🔭 I’m currently working at **Go Digital Consulting Technology LLP**
+- 🔭 I’m currently working at **Google**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently exploring **GenAI**
 
 - 👨‍💻 All of my projects are available at [https://tghimanshu.github.io/](https://tghimanshu.github.io/)
 
-- 💬 Ask me about **Anything Programming**
+- 💬 Ask me about **Anything Programming & Anime**
 
-- 📫 How to reach me **himanshugohil234@gmail.com`**
+- 📫 How to reach me **himanshugohil234@gmail.com**
 
-- ⚡ Fun fact **I love Animes**
+- ⚡ Fun fact **I love Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
